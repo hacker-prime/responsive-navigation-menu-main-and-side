@@ -44,6 +44,7 @@
             </div>
 
             <!-- This is placed here in order to incorporate the side-navigation tutorial/code -->
+            <!-- https://www.youtube.com/watch?v=F0uED-w9E48&list=WL&index=81  https://codepen.io/ephs23/pen/jJMRLE -->
             <span class="slide">
                 <a href="#" onClick="openSlideMenu()">
                     <i class="fas fa-bars"></i>
@@ -53,6 +54,7 @@
         </nav>
     </header>
 
+    <!-- https://www.youtube.com/watch?v=F0uED-w9E48&list=WL&index=81  https://codepen.io/ephs23/pen/jJMRLE -->
     <?php require_once("side-navigation.php") ?>
    
     <section id="home">
